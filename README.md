@@ -1,2 +1,1 @@
-# GyverHub-widgets
- 
+# GyverHub-plugins
