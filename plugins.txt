@@ -1,1 +1,1 @@
-https://github.com/GyverLibs/GyverHub-widgets/blob/987833e435e537b6bc7afd3f40d68ba0ebd23c4f/widgets/test.js
+https://github.com/GyverLibs/GyverHub-plugins/blob/5fb97adb39ef706be99fee8924314809014ce496/plugins/test.js
