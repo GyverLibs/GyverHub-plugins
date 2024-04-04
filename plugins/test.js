@@ -3,7 +3,7 @@ value - значение
 */
 
 class MyInput extends BaseWidget {
-    static wtype = 'myinput';
+    static wtype = 'myinput2';
     $el;
 
     constructor(data, renderer) {
