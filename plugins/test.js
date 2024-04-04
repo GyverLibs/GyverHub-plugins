@@ -10,16 +10,16 @@ class MyInput extends BaseWidget {
         super(data, renderer);
 
         this.makeLayout({
-            type: 'div',
+            tag: 'div',
             children: [
                 {
-                    type: 'input',
+                    tag: 'input',
                     name: 'el',
                     inputType: 'text',
                     class: 'myinp',
                 },
                 {
-                    type: 'button',
+                    tag: 'button',
                     text: 'send',
                     class: 'mybtn',
                     events: {
